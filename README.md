@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
