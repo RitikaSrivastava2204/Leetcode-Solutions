@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0031-next-permutation) |
 | [0048-rotate-image](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -72,10 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
