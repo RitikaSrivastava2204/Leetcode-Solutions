@@ -5,12 +5,8 @@ class Solution {
         for(int i=0; i<matrix.length; i++){
             for(int j=0; j<matrix[0].length; j++){
                 if(matrix[i][j] == 0){
-                    if(!rows.contains(i)){
-                        rows.add(i);
-                    }
-                    if(!cols.contains(j)){
-                        cols.add(j);
-                    }
+                    rows.add(i);
+                    cols.add(j);
                 }
             }
         }
