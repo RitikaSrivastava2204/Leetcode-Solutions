@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -109,4 +110,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
