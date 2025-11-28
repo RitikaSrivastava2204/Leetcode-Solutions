@@ -123,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Depth-First Search
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
