@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
