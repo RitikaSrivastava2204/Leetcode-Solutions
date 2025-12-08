@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [2211-count-collisions-on-a-road](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Math
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [2211-count-collisions-on-a-road](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Counting Sort
 |  |
