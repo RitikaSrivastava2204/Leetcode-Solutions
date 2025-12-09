@@ -159,10 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Greedy
 |  |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
