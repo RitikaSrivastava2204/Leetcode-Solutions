@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0205-isomorphic-strings](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2211-count-collisions-on-a-road](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Math
 |  |
