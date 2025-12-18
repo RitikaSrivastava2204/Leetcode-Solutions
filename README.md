@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0205-isomorphic-strings](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2211-count-collisions-on-a-road](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2211-count-collisions-on-a-road) |
 ## Math
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0079-word-search) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Greedy
@@ -210,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
