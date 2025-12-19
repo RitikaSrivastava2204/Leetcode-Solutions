@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [2435-paths-in-matrix-whose-sum-is-divisible-by-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/2435-paths-in-matrix-whose-sum-is-divisible-by-k) |
