@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0645-set-mismatch) |
 | [0875-koko-eating-bananas](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Hash Table
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0645-set-mismatch) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Simulation
 |  |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/RitikaSrivastava2204/Leetcode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
