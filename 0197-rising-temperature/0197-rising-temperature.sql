@@ -1,2 +1,2 @@
-/* Write your PL/SQL query statement below */
-select today.id from weather today join weather yesterday on today.recordDate - yesterday.recordDate = 1 where today.temperature > yesterday.temperature;
+# Write your MySQL query statement below
+select today.Id from weather as today join weather as yesterday on datediff(today.recordDate, yesterday.recordDate) = 1 where today.temperature > yesterday.temperature;
